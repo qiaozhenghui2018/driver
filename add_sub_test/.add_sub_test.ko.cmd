@@ -1,0 +1,1 @@
+cmd_/home/joe/linux_kernel/linux-4.6.6/driver/add_sub_test/add_sub_test.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/joe/linux_kernel/linux-4.6.6/driver/add_sub_test/add_sub_test.ko /home/joe/linux_kernel/linux-4.6.6/driver/add_sub_test/add_sub_test.o /home/joe/linux_kernel/linux-4.6.6/driver/add_sub_test/add_sub_test.mod.o

@@ -1,2 +1,2 @@
-0x00000000	add_int	/home/qiaozhh/linux_kernel/linux-4.6.6/private/add_sub/add_sub	EXPORT_SYMBOL
-0x00000000	sub_int	/home/qiaozhh/linux_kernel/linux-4.6.6/private/add_sub/add_sub	EXPORT_SYMBOL
+0x00000000	add_int	/home/joe/linux_kernel/linux-4.6.6/driver/add_sub/add_sub	EXPORT_SYMBOL
+0x00000000	sub_int	/home/joe/linux_kernel/linux-4.6.6/driver/add_sub/add_sub	EXPORT_SYMBOL

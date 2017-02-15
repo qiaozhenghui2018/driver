@@ -1,0 +1,1 @@
+cmd_/home/joe/linux_kernel/linux-4.6.6/driver/add_sub/add_sub.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/joe/linux_kernel/linux-4.6.6/driver/add_sub/add_sub.ko /home/joe/linux_kernel/linux-4.6.6/driver/add_sub/add_sub.o /home/joe/linux_kernel/linux-4.6.6/driver/add_sub/add_sub.mod.o

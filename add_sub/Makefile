@@ -1,6 +1,6 @@
 
 ifeq ($(KERNELRELEASE), )
-	KERNELDIR ?=/home/qiaozhh/linux_kernel/linux-4.6.6/
+	KERNELDIR ?=/home/joe/linux_kernel/linux-4.6.6/
 	PWD       := $(shell pwd)
 
 modules:

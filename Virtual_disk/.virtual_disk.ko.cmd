@@ -1,0 +1,1 @@
+cmd_/home/joe/linux_kernel/linux-4.6.6/driver/Virtual_disk/virtual_disk.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/joe/linux_kernel/linux-4.6.6/driver/Virtual_disk/virtual_disk.ko /home/joe/linux_kernel/linux-4.6.6/driver/Virtual_disk/virtual_disk.o /home/joe/linux_kernel/linux-4.6.6/driver/Virtual_disk/virtual_disk.mod.o
