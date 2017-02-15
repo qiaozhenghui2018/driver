@@ -1,0 +1,1 @@
+cmd_/home/qiaozhh/linux_kernel/linux-4.6.6/private/hello_world/hello_world.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/qiaozhh/linux_kernel/linux-4.6.6/private/hello_world/hello_world.ko /home/qiaozhh/linux_kernel/linux-4.6.6/private/hello_world/hello_world.o /home/qiaozhh/linux_kernel/linux-4.6.6/private/hello_world/hello_world.mod.o
